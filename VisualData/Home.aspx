@@ -8,8 +8,8 @@
     <script src="ChartJS.js"></script>
 </head>
 <body>
-    <form id="form1" runat="server">
-    <div>
+    <form id="form1" runat="server">   
+    <div>  
         <asp:Literal ID="ltChart" runat="server"></asp:Literal>
     </div>
     </form>
