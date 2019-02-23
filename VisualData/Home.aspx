@@ -12,7 +12,7 @@
     <div>  
         <asp:Literal ID="ltChart" runat="server"></asp:Literal>
     </div>
-    </form>
+    </form>    
 </body>
 </html>
   
