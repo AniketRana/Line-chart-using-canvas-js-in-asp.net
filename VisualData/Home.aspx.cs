@@ -43,7 +43,7 @@ namespace VisualData
 
                 // more detais
                 for (int i = 0; i < 20; i++)
-                {
+                { 
                     chart += i.ToString() + ",";
                 }                
                 chart = chart.Substring(0, chart.Length - 1);
